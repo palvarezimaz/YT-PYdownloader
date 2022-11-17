@@ -2,8 +2,9 @@
 
 This very small Python program uses the pytube library to ease the download of YouTube videos to my computer using the CLI, so I can stop using dodgy plugins.
 
-To make it work, you need to install pytube
-pip install pytube
+To make it work, you need to install pytube:
+
+`pip install pytube`
 
 And, of course, have Python3 installed.
 
